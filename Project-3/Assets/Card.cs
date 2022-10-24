@@ -33,8 +33,8 @@ public class Card : MonoBehaviour
 
     public void SetGraphics()
     {
-        cardBack = manager.GetComponent<GameManager>().getCardBack();
-        cardFront = manager.GetComponent<GameManager>().getCardFront(cardValue);
+        cardBack = manager.GetComponent<GameMan>().getCardBack();
+        cardFront = manager.GetComponent<GameMan>().getCardFront(cardValue);
 
         FlipCard();
     }

@@ -256,6 +256,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 41d08cf792d4965479b879c323dbf445, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  state: 0
+  cardValue: 0
+  initialized: 0
 --- !u!1 &111453945
 GameObject:
   m_ObjectHideFlags: 0
@@ -389,6 +392,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 41d08cf792d4965479b879c323dbf445, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  state: 0
+  cardValue: 0
+  initialized: 0
 --- !u!1 &122440564
 GameObject:
   m_ObjectHideFlags: 0
@@ -522,6 +528,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 41d08cf792d4965479b879c323dbf445, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  state: 0
+  cardValue: 0
+  initialized: 0
 --- !u!1 &253011860
 GameObject:
   m_ObjectHideFlags: 0
@@ -655,6 +664,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 41d08cf792d4965479b879c323dbf445, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  state: 0
+  cardValue: 0
+  initialized: 0
 --- !u!1 &280074438
 GameObject:
   m_ObjectHideFlags: 0
@@ -788,6 +800,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 41d08cf792d4965479b879c323dbf445, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  state: 0
+  cardValue: 0
+  initialized: 0
 --- !u!1 &348585401
 GameObject:
   m_ObjectHideFlags: 0
@@ -921,6 +936,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 41d08cf792d4965479b879c323dbf445, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  state: 0
+  cardValue: 0
+  initialized: 0
 --- !u!1 &410326143
 GameObject:
   m_ObjectHideFlags: 0
@@ -933,7 +951,7 @@ GameObject:
   - component: {fileID: 410326145}
   m_Layer: 0
   m_Name: GameManager
-  m_TagString: Untagged
+  m_TagString: Manager
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -1175,6 +1193,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 41d08cf792d4965479b879c323dbf445, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  state: 0
+  cardValue: 0
+  initialized: 0
 --- !u!1 &519420028
 GameObject:
   m_ObjectHideFlags: 0
@@ -1391,6 +1412,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 41d08cf792d4965479b879c323dbf445, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  state: 0
+  cardValue: 0
+  initialized: 0
 --- !u!1 &611761820
 GameObject:
   m_ObjectHideFlags: 0
@@ -1524,6 +1548,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 41d08cf792d4965479b879c323dbf445, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  state: 0
+  cardValue: 0
+  initialized: 0
 --- !u!1 &644910252
 GameObject:
   m_ObjectHideFlags: 0
@@ -1657,6 +1684,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 41d08cf792d4965479b879c323dbf445, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  state: 0
+  cardValue: 0
+  initialized: 0
 --- !u!1 &737407183
 GameObject:
   m_ObjectHideFlags: 0
@@ -1790,6 +1820,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 41d08cf792d4965479b879c323dbf445, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  state: 0
+  cardValue: 0
+  initialized: 0
 --- !u!1 &766780507
 GameObject:
   m_ObjectHideFlags: 0
@@ -1923,6 +1956,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 41d08cf792d4965479b879c323dbf445, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  state: 0
+  cardValue: 0
+  initialized: 0
 --- !u!1 &789538865
 GameObject:
   m_ObjectHideFlags: 0
@@ -2056,6 +2092,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 41d08cf792d4965479b879c323dbf445, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  state: 0
+  cardValue: 0
+  initialized: 0
 --- !u!1 &800615939
 GameObject:
   m_ObjectHideFlags: 0
@@ -2189,6 +2228,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 41d08cf792d4965479b879c323dbf445, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  state: 0
+  cardValue: 0
+  initialized: 0
 --- !u!1 &851707266
 GameObject:
   m_ObjectHideFlags: 0
@@ -2322,6 +2364,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 41d08cf792d4965479b879c323dbf445, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  state: 0
+  cardValue: 0
+  initialized: 0
 --- !u!1 &970953264
 GameObject:
   m_ObjectHideFlags: 0
@@ -2455,6 +2500,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 41d08cf792d4965479b879c323dbf445, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  state: 0
+  cardValue: 0
+  initialized: 0
 --- !u!1 &1346884519
 GameObject:
   m_ObjectHideFlags: 0
@@ -2588,6 +2636,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 41d08cf792d4965479b879c323dbf445, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  state: 0
+  cardValue: 0
+  initialized: 0
 --- !u!1 &1348631033
 GameObject:
   m_ObjectHideFlags: 0
@@ -2721,6 +2772,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 41d08cf792d4965479b879c323dbf445, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  state: 0
+  cardValue: 0
+  initialized: 0
 --- !u!1 &1370027532
 GameObject:
   m_ObjectHideFlags: 0
@@ -2854,6 +2908,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 41d08cf792d4965479b879c323dbf445, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  state: 0
+  cardValue: 0
+  initialized: 0
 --- !u!1 &1423352143
 GameObject:
   m_ObjectHideFlags: 0
@@ -3090,6 +3147,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 41d08cf792d4965479b879c323dbf445, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  state: 0
+  cardValue: 0
+  initialized: 0
 --- !u!1 &1644576179
 GameObject:
   m_ObjectHideFlags: 0
@@ -3223,6 +3283,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 41d08cf792d4965479b879c323dbf445, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  state: 0
+  cardValue: 0
+  initialized: 0
 --- !u!1 &1687011030
 GameObject:
   m_ObjectHideFlags: 0
@@ -3438,6 +3501,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 41d08cf792d4965479b879c323dbf445, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  state: 0
+  cardValue: 0
+  initialized: 0
 --- !u!1 &1796335075
 GameObject:
   m_ObjectHideFlags: 0
@@ -3637,6 +3703,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 41d08cf792d4965479b879c323dbf445, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  state: 0
+  cardValue: 0
+  initialized: 0
 --- !u!1 &1844698760
 GameObject:
   m_ObjectHideFlags: 0
@@ -3770,6 +3839,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 41d08cf792d4965479b879c323dbf445, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  state: 0
+  cardValue: 0
+  initialized: 0
 --- !u!1 &1888049560
 GameObject:
   m_ObjectHideFlags: 0
