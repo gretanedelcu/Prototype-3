@@ -90,8 +90,8 @@ public class GameMan : MonoBehaviour
             X = 2;
             Matches--;
             matchText.text = "Number of Matches: " + Matches;
-            if (Matches == 0)
-                SceneManager.LoadScene("Menu");
+            //if (Matches == 0)
+              //  SceneManager.LoadScene("Menu");
 
         }
 
