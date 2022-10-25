@@ -36,7 +36,7 @@ public class GameMan : MonoBehaviour
     {
         for (int id = 0; id < 2; id++)
         {
-            for (int i = 1; i < 14; i++)
+            for (int i = 1; i < 13; i++)
             {
                 bool test = false;
                 int choice = 0;
@@ -90,8 +90,8 @@ public class GameMan : MonoBehaviour
             X = 2;
             Matches--;
             matchText.text = "Number of Matches: " + Matches;
-            //if (Matches == 0)
-              //  SceneManager.LoadScene("Menu");
+           // if (Matches == 0)
+            //    SceneManager.LoadScene("Menu");
 
         }
 

@@ -21,7 +21,7 @@ public class Card : MonoBehaviour
     // Start is called before the first frame update
     void Start()
     {
-        state = 0;
+        state = 1;
         manager = GameObject.FindGameObjectWithTag("Manager");
     }
 
